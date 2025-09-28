@@ -1,6 +1,6 @@
 # Naive RAG Fundamentals
 
-Each steps are demonstated using both 
-- OpenAI Embedding functions and LLMs
-- Locally running LLMs and Embedding models using Ollama
+Each step is demonstrated using both 
+- OpenAI's Embedding functions and LLMs
+- Locally running LLMs and Embedding models using Ollama (fully open-source)
 
